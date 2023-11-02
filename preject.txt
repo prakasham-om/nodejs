@@ -1,0 +1,14 @@
+// create 4 models
+ a.User
+ b.product
+ c.orders
+
+
+
+ //Admin only manage the products
+
+ //user have proper authentication and user can i update only his orders
+
+
+
+
